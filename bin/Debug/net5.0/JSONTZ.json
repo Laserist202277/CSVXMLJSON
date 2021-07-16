@@ -1,0 +1,27 @@
+[
+  {
+    "category": "Byke",
+    "forAll": true,
+    "parentCategory": "Vehicle",
+    "values": [
+      "Cube Aim Pro 29"
+    ]
+  },
+  {
+    "category": "Sedan",
+    "forAll": true,
+    "parentCategory": "Vehicle.Car",
+    "values": [
+      "Vaz 2115"
+    ]
+  },
+  {
+    "category": "Coupe",
+    "forAll": false,
+    "parentCategory": "Vehicle.Car",
+    "values": [
+      "Subaru BRZ",
+      "Mazda MX5"
+    ]
+  }
+]

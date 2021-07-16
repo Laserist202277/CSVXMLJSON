@@ -1,0 +1,16 @@
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\bin\Debug\net5.0\CSVXMLJSON.exe
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\bin\Debug\net5.0\CSVXMLJSON.deps.json
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\bin\Debug\net5.0\CSVXMLJSON.runtimeconfig.json
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\bin\Debug\net5.0\CSVXMLJSON.runtimeconfig.dev.json
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\bin\Debug\net5.0\CSVXMLJSON.dll
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\bin\Debug\net5.0\ref\CSVXMLJSON.dll
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\bin\Debug\net5.0\CSVXMLJSON.pdb
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\obj\Debug\net5.0\CSVXMLJSON.csproj.AssemblyReference.cache
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\obj\Debug\net5.0\CSVXMLJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\obj\Debug\net5.0\CSVXMLJSON.AssemblyInfoInputs.cache
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\obj\Debug\net5.0\CSVXMLJSON.AssemblyInfo.cs
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\obj\Debug\net5.0\CSVXMLJSON.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\obj\Debug\net5.0\CSVXMLJSON.dll
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\obj\Debug\net5.0\ref\CSVXMLJSON.dll
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\obj\Debug\net5.0\CSVXMLJSON.pdb
+C:\Users\slava\source\repos\CSVXMLJSON\CSVXMLJSON\obj\Debug\net5.0\CSVXMLJSON.genruntimeconfig.cache

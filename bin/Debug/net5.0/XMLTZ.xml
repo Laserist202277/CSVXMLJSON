@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Category everyone="true">
+	<Name>Vehicle</Name>
+	<Children>
+		<Category everyone="true">
+			<Name>Byke</Name>
+		</Category>
+		<Category>
+			<Name>Car</Name>
+			<Children>
+				<Category everyone="true">
+					<Name>Sedan</Name>
+				</Category>
+				<Category>
+					<Name>Coupe</Name>
+				</Category>
+			</Children>
+		</Category>
+		</Children>
+</Category>
